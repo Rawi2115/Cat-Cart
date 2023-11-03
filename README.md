@@ -1,13 +1,7 @@
-# coc46466ab798680b94431edb
+# Cat Cart
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
+Cat Cart is a simple add to cart app that uses Javascript and Firebase
+This app was created as a part of scrimba's Frontend Career Path Course
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
